@@ -10,4 +10,9 @@
 
 ## 📕 Latest Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript 的函式調用&lpar;Invocation&rpar;與堆疊&lpar;Stack&rpar;](https://ritachien.github.io/posts/5fdf6ed8/)
+- [Javascript 中的 Hoisting 與 undefined](https://ritachien.github.io/posts/83cbebe3/)
+- [JavaScript 的執行環境&lpar;Execution Contexts&rpar;](https://ritachien.github.io/posts/ca5ebfed/)
+- [JavaScript 前導觀念與名詞介紹](https://ritachien.github.io/posts/555e8dd9/)
+- [Twitter 專案開發回顧](https://ritachien.github.io/posts/1001d93d/)
 <!-- BLOG-POST-LIST:END -->
