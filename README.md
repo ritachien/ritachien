@@ -10,9 +10,9 @@
 
 ## 📕 Latest Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [LINE BOT 開發紀錄 - 薪資級距確認篇&lpar;Binary Search&rpar;](https://ritachien.github.io/posts/88a49764/)
 - [【CS50x&lpar;2022&rpar;】ProblemSet4 - Recover 題解](https://ritachien.github.io/posts/c4654fea/)
 - [JavaScript 的 Scope Chain 和 Outer Environment](https://ritachien.github.io/posts/7afede3f/)
 - [JavaScript 的函式調用&lpar;Invocation&rpar;與堆疊&lpar;Stack&rpar;](https://ritachien.github.io/posts/5fdf6ed8/)
 - [Javascript 中的 Hoisting 與 undefined](https://ritachien.github.io/posts/83cbebe3/)
-- [JavaScript 的執行環境&lpar;Execution Contexts&rpar;](https://ritachien.github.io/posts/ca5ebfed/)
 <!-- BLOG-POST-LIST:END -->
