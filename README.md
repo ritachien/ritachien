@@ -6,7 +6,7 @@
 
 ## 📈 Github states
 [![Rita Chien's GitHub stats](https://github-readme-stats-pied-beta.vercel.app/api?username=ritachien&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)  
-[![Most Used Languages](https://github-readme-stats-pied-beta.vercel.app/api/top-langs/?username=ritachien&layout=compact&theme=algolia&card_width=445px&exclude_repo=blog-backup,twitter-api-workspace-backup,ritachien.github.io)](https://github.com/anuraghazra/github-readme-stats)  
+[![Most Used Languages](https://github-readme-stats-pied-beta.vercel.app/api/top-langs/?username=ritachien&layout=compact&theme=algolia&card_width=445px&langs_count=6&exclude_repo=blog-backup,twitter-api-workspace-backup,ritachien.github.io)](https://github.com/anuraghazra/github-readme-stats)  
 
 ## 📕 Latest Blog Posts  
 <!-- BLOG-POST-LIST:START -->
